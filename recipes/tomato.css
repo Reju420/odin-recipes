@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: rgb(190, 57, 57);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    list-style-position: inside;
+    padding-left: 0%;
+}
+ol{
+    list-style-position: inside;
+    padding-left: 0%;
+    
+}
+img{
+    height: 400px;
+    width: auto;
+}
+.but{
+    font-size: 30px;
+    background-color: black;
+}
+a{
+    color: black;
+    transition: 0.2s linear;
+}
+a:hover{
+    color: white;
+}

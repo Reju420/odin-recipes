@@ -1,0 +1,37 @@
+
+body{
+    text-align: center;
+    background-color: rgb(8, 83, 8);
+    color: white;
+     font-family: GentiumPlusW;
+	font-style: italic;
+	src: url(GentiumPlus-I.woff);
+	unicode-range: U+0370-03FF, U+1F00-1FFF; 
+   
+	
+	
+}
+ul{
+    list-style-position: inside;
+    padding-left: 0%;
+}
+ol{
+    list-style-position: inside;
+    padding-left: 0%;
+    
+}
+img{
+    height: 400px;
+    width: auto;
+}
+.but{
+    font-size: 30px;
+    background-color: black;
+}
+a{
+    color: black;
+    transition: 0.2s linear;
+}
+a:hover{
+    color: white;
+}
